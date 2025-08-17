@@ -244,6 +244,7 @@ namespace AnimeStudio
         XintianlongBabu,
         FrostpunkBeyondTheIce,
         CatFantasy,
+        AzurPromiliaCBT1,
         UnityCNCustomKey,
     }
 

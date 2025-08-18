@@ -34,7 +34,7 @@ namespace AnimeStudio
             new() { "XintianlongBabu", "Xintianlong Babu", "61323562623133346363326464333265" },
             new() { "FrostpunkBeyondTheIce", "Frostpunk: Beyond the Ice", "7368756978696E673838383838383838" },
             new() { "CatFantasy", "Cat Fantasy", "43614461566637323538576877363433" },
-            new() { "AzurPromiliaCBT1", "Azur Promilia CBT1", "7A346C32336268352333356826333231" },
+            new() { "AzurPromiliaCBT1", "Azur Promilia CBT1", "7A346C32336268352333356826333231" }
         };
         private static List<List<string>> storedData;
         private static readonly string UnityCNKeysPath = "CNKeys.json";
